@@ -58,4 +58,4 @@ bot.on("ready", async () => {
   )})
 
 
-bot.login("Discord Token");
+bot.login("ODM4MTg0MDIwNDY5NzQzNjM2.YI3Zsw.x1AHM39dfQqKLiZd9spRt6TjN1s");
